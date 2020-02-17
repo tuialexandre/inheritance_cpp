@@ -1,6 +1,6 @@
 # inheritance_cpp
 Simple inheritance example in C++
-using multiple files, headers and an interface
+using multiple files, headers and interface
 
 ## Compiling and running the example
 ```
